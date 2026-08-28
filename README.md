@@ -39,7 +39,7 @@
 <div align="center">
   <table border="0" style="border: none; background: transparent;">
     <tr style="border: none;">
-      <td width="42%" valign="top" style="border: none; padding-right: 15px;">
+      <td width="32%" valign="top" style="border: none; padding-right: 15px;">
 
 ```text
 ~/metwally ❯ npm run build && launch --game
