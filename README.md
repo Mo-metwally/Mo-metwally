@@ -98,7 +98,7 @@ File written successfully!
     </td>
     <td width="50%" align="center" valign="middle">
       <a href="[https://mohammed-metwally.web.app](https://mohammed-metwally.web.app)" target="_blank">
-        <img src="[https://raw.githubusercontent.com/Mo-metwally/Mo-metwally/refs/heads/metwally/66703d9a-4072-4de6-b3ea-8c6e9ad43583.png](https://raw.githubusercontent.com/Mo-metwally/Mo-metwally/refs/heads/metwally/66703d9a-4072-4de6-b3ea-8c6e9ad43583.png)" width="100%" alt="RPG Developer Artwork" />
+        <img src="https://raw.githubusercontent.com/Mo-metwally/Mo-metwally/refs/heads/metwally/66703d9a-4072-4de6-b3ea-8c6e9ad43583.png" width="100%" alt="RPG Developer Artwork" />
       </a>
     </td>
   </tr>
