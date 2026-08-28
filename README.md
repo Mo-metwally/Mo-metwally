@@ -64,11 +64,10 @@
 <br>
 
 <!-- Character HUD & Game Screen (50% / 50% Exact Split) -->
-<table width="100%" border="0" style="border: none; background: transparent; border-collapse: collapse;">
-  <tr style="border: none;">
-    <td width="50%" valign="top" style="border: none; padding-right: 8px;">
-
-```text
+<table width="100%" border="0">
+  <tr>
+    <td width="50%" valign="top">
+<pre>
 ~/metwally ❯ npm run build && launch --game
 
 [BUILD]  Forging ideas into interfaces...
@@ -93,5 +92,15 @@
 ✅ System Ready.
 └─ Access Live Node 👇
    🌐 [https://mohammed-metwally.web.app](https://mohammed-metwally.web.app)
-   ```text?code_stdout&code_event_index=1
+      ```text?code_stdout&code_event_index=1
 File written successfully!
+</pre>
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <a href="[https://mohammed-metwally.web.app](https://mohammed-metwally.web.app)" target="_blank">
+        <img src="[https://raw.githubusercontent.com/Mo-metwally/Mo-metwally/refs/heads/metwally/66703d9a-4072-4de6-b3ea-8c6e9ad43583.png](https://raw.githubusercontent.com/Mo-metwally/Mo-metwally/refs/heads/metwally/66703d9a-4072-4de6-b3ea-8c6e9ad43583.png)" width="100%" alt="RPG Developer Artwork" />
+      </a>
+    </td>
+  </tr>
+</table>
+
