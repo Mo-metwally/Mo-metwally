@@ -93,9 +93,6 @@
 └─ Access Live Node 👇
    🌐 [https://mohammed-metwally.web.app](https://mohammed-metwally.web.app)
    
-      ?code_stdout&code_event_index=1
-      File written successfully!
-
 </pre>
     </td>
     <td width="50%" align="center" valign="middle">
