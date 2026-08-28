@@ -92,7 +92,7 @@
 ✅ System Ready.
 └─ Access Live Node 👇
    🌐 [https://mohammed-metwally.web.app](https://mohammed-metwally.web.app)
-      ```text?code_stdout&code_event_index=1
+      ?code_stdout&code_event_index=1
 File written successfully!
 </pre>
     </td>
