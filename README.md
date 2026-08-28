@@ -70,7 +70,7 @@
    </td>
   <td width="55%" align="center" valign="middle" style="border: none;">
     <a href="https://mohammed-metwally.web.app" target="_blank">
-      <img src="https://raw.githubusercontent.com/Mo-metwally/Mo-metwally/refs/heads/metwally/66703d9a-4072-4de6-b3ea-8c6e9ad43583.png" width="500" alt="RPG Developer Artwork" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.35);" />
+      <img src="https://raw.githubusercontent.com/Mo-metwally/Mo-metwally/refs/heads/metwally/66703d9a-4072-4de6-b3ea-8c6e9ad43583.png" width="10" alt="RPG Developer Artwork" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.35);" />
     </a>
   </td>
 </tr>
