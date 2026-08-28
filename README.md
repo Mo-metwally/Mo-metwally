@@ -1,18 +1,42 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=d35400&height=150&section=header&text=Mohammed%20Metwally&fontSize=40&animation=fadeIn&fontAlignY=35&desc=Front-End%20Developer%20%7C%20Gamer%20%7C%20Web%20Designer&descAlignY=55&descAlign=50&textBgColor=ffffff&descBgColor=ffffff&descTextColor=ffffff&descSize=16" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,13,24,35&height=180&section=header&text=Mohammed%20Metwally&fontSize=42&fontAlignY=38&animation=fadeIn&desc=Front-End%20Architect%20%7C%20UI%2FUX%20Explorer%20%7C%20Gamer&descAlignY=58&descAlign=50&descSize=16&descTextColor=a0aec0" width="100%" alt="Header Banner" />
+
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Mo-metwally&label=PROFILE%20VIEWS&color=007acc&style=for-the-badge&logo=eye" alt="Profile Views" />
+  </p>
+
+  <h3>🌐 Connect With Me</h3>
+  <p align="center">
+    <a href="https://mohammed-metwally.web.app" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="https://www.linkedin.com/in/mohamed-metwally-355969248/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://www.behance.net/mohamedmetwally29" target="_blank">
+      <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
+    </a>
+    <a href="https://x.com/Mohamed12_98" target="_blank">
+      <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+    </a>
+    <a href="https://www.facebook.com/mohamed.metwally.5855594/" target="_blank">
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    </a>
+  </p>
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mo-metwally&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+---
 
-> A highly motivated and detail-oriented Front-End Developer with extensive experience in building dynamic, responsive, and scalable web applications using **Next.js, React.js, GSAP, and Tailwind CSS**. Possessing a solid background in Back-End development, bridging the gap between user-centric interfaces and robust server-side functionality.
+### 🚀 About Me
+
+> A highly motivated and detail-oriented **Front-End Developer** specializing in building dynamic, high-performance, and immersive web experiences using **Next.js, React.js, GSAP, and Tailwind CSS**. Bridging the gap between creative UI/UX design and robust, scalable web architectures.
 
 <br>
 
-<a href="https://mohammed-metwally.web.app" target="_blank">
-  <img align="right" width="380" src="https://raw.githubusercontent.com/Mo-metwally/Mo-metwally/refs/heads/metwally/66703d9a-4072-4de6-b3ea-8c6e9ad43583.png" alt="Coding Gamer GIF" style="margin-left: 20px; margin-bottom: 20px;" />
-</a>
+<div align="center">
+  <table>
+    <tr>
+      <td width="55%" valign="top">
 
 ```text
 ~/metwally ❯ npm run build && launch --game
@@ -23,19 +47,19 @@
        ╭──────────────────────────────────────╮
        │              CHARACTER               │
        │                                      │
-       │  ⚔️ Class       :: FrontEnd Weaver    │
-       │  🗺️ Quest       :: Build what doesn't│
-       │                    exist yet         │
-       │  🧠 Passive     :: Curiosity         │
-       │  ⚡ Active      :: Problem Solving   │
-       │  👾 Bosses      :: Bugs, Errors &    │
-       │                    Impossible Reqs   │
-       │  📈 Level       :: Level Up Every    │
-       │                    Build             │
+       │  ⚔️ Class        :: FrontEnd Weaver   │
+       │  🗺️ Quest        :: Build what doesn't│
+       │                     exist yet        │
+       │  🧠 Passive      :: Curiosity         │
+       │  ⚡ Active       :: Problem Solving   │
+       │  👾 Bosses       :: Bugs, Errors &    │
+       │                     Impossible Reqs  │
+       │  📈 Level        :: Level Up Every    │
+       │                     Build            │
        ╰──────────────────────────────────────╯
 
 [████████████████████████████] BUILD COMPLETE
 
 ✅ System Ready.
-└─ Access Node 👇
-   [https://mohammed-metwally.web.app](https://mohammed-metwally.web.app)
+└─ Access Live Node 👇
+   🌐 [https://mohammed-metwally.web.app](https://mohammed-metwally.web.app)
