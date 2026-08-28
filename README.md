@@ -43,7 +43,7 @@
 <br>
 
 <div align="center">
-  <table width="100%" style="border-collapse: collapse; border: none;">
+  <table width="100vw" style="border-collapse: collapse; border: none;">
     <tr>
       <td width="33%" align="center" style="background: rgba(216, 196, 182, 0.1); border-radius: 8px; padding: 12px;">
         📍 <b>Base Location</b><br>
@@ -92,8 +92,10 @@
 ✅ System Ready.
 └─ Access Live Node 👇
    🌐 [https://mohammed-metwally.web.app](https://mohammed-metwally.web.app)
+   
       ?code_stdout&code_event_index=1
-File written successfully!
+      File written successfully!
+
 </pre>
     </td>
     <td width="50%" align="center" valign="middle">
