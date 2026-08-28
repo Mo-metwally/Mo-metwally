@@ -37,7 +37,13 @@
   <table>
     <tr>
       <td width="55%" valign="top">
-
+</td>
+  <td width="45%" align="center" valign="middle">
+    <a href="https://mohammed-metwally.web.app" target="_blank">
+      <img src="https://raw.githubusercontent.com/Mo-metwally/Mo-metwally/refs/heads/metwally/66703d9a-4072-4de6-b3ea-8c6e9ad43583.png" width="370" alt="RPG Developer Artwork" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.4);" />
+    </a>
+  </td>
+</tr>
 ```text
 ~/metwally ❯ npm run build && launch --game
 
