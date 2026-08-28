@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Mohammed Metwally</h1>
 
-<!--
-**Mo-metwally/Mo-metwally** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-Here are some ideas to get you started:
+> A highly motivated and detail-oriented Front-End Developer with extensive experience in building dynamic, responsive, and scalable web applications using **Next.js, React.js, GSAP, and Tailwind CSS**. Possessing a solid background in Back-End development, bridging the gap between user-centric interfaces and robust server-side functionality.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+```text
+~/metwally ❯ npm run build && launch --game
+
+[BUILD]  Forging ideas into interfaces...
+[GAME]   Developer Mode — ONLINE
+
+       ╭────────────────────────────────────────╮
+       │               CHARACTER                │
+       │                                        │
+       │  ⚔️ Class       :: FrontEnd Weaver     │
+       │  🗺️ Quest       :: Build what doesn't  │
+       │                    exist yet           │
+       │  🧠 Passive     :: Curiosity           │
+       │  ⚡ Active      :: Problem Solving     │
+       │  👾 Bosses      :: Bugs, Errors &      │
+       │                    Impossible Reqs     │
+       │  📈 Level       :: Level Up Every      │
+       │                    Build               │
+       ╰────────────────────────────────────────╯
+
+[██████████████████████████████████████] BUILD COMPLETE
+
+✅ System Ready.
+└─ Access Node 👇
+   [https://mohammed-metwally.web.app](https://mohammed-metwally.web.app)
