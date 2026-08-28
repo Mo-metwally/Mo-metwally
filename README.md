@@ -45,15 +45,15 @@
 <div align="center">
   <table width="100vw" style="border-collapse: collapse; border: none;">
     <tr>
-      <td width="33%" align="center" style="background: rgba(216, 196, 182, 0.1); border-radius: 8px; padding: 12px;">
+      <td width="33vw" align="center" style="background: rgba(216, 196, 182, 0.1); border-radius: 8px; padding: 12px;">
         📍 <b>Base Location</b><br>
         <code>Cairo, Egypt 🇪🇬</code>
       </td>
-      <td width="33%" align="center" style="background: rgba(216, 196, 182, 0.1); border-radius: 8px; padding: 12px;">
+      <td width="33vw" align="center" style="background: rgba(216, 196, 182, 0.1); border-radius: 8px; padding: 12px;">
         ⚔️ <b>Guild Role</b><br>
         <code>Solo & Team Specialist</code>
       </td>
-      <td width="33%" align="center" style="background: rgba(216, 196, 182, 0.1); border-radius: 8px; padding: 12px;">
+      <td width="33vw" align="center" style="background: rgba(216, 196, 182, 0.1); border-radius: 8px; padding: 12px;">
         🟢 <b>Current Availability</b><br>
         <code>Freelance & Full-Time</code>
       </td>
