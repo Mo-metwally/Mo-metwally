@@ -1,34 +1,42 @@
-<h1 align="center">Hi 👋, I'm Mohammed Metwally</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=150&section=header&text=Mohammed%20Metwally&fontSize=40&animation=fadeIn&fontAlignY=35&desc=Front-End%20Developer%20%7C%20Gamer&descAlignY=55&descAlign=50" width="100%" alt="Header" />
+</div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mo-metwally/Mo-metwally/refs/heads/metwally/66703d9a-4072-4de6-b3ea-8c6e9ad43583.png" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 > A highly motivated and detail-oriented Front-End Developer with extensive experience in building dynamic, responsive, and scalable web applications using **Next.js, React.js, GSAP, and Tailwind CSS**. Possessing a solid background in Back-End development, bridging the gap between user-centric interfaces and robust server-side functionality.
 
----
+<br>
 
+<!-- الصورة اللي هتكون على الشمال -->
+<a href="https://mohammed-metwally.web.app" target="_blank">
+  <img align="left" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding Gamer GIF" style="margin-right: 20px; margin-bottom: 20px;" />
+</a>
+
+<!-- الكود اللي هيكون على اليمين -->
 ```text
 ~/metwally ❯ npm run build && launch --game
 
 [BUILD]  Forging ideas into interfaces...
 [GAME]   Developer Mode — ONLINE
 
-       ╭────────────────────────────────────────╮
-       │               CHARACTER                │
-       │                                        │
-       │  ⚔️ Class       :: FrontEnd Weaver     │
-       │  🗺️ Quest       :: Build what doesn't  │
-       │                    exist yet           │
-       │  🧠 Passive     :: Curiosity           │
-       │  ⚡ Active      :: Problem Solving     │
-       │  👾 Bosses      :: Bugs, Errors &      │
-       │                    Impossible Reqs     │
-       │  📈 Level       :: Level Up Every      │
-       │                    Build               │
-       ╰────────────────────────────────────────╯
+       ╭──────────────────────────────────────╮
+       │              CHARACTER               │
+       │                                      │
+       │  ⚔️ Class       :: FrontEnd Weaver    │
+       │  🗺️ Quest       :: Build what doesn't│
+       │                    exist yet         │
+       │  🧠 Passive     :: Curiosity         │
+       │  ⚡ Active      :: Problem Solving   │
+       │  👾 Bosses      :: Bugs, Errors &    │
+       │                    Impossible Reqs   │
+       │  📈 Level       :: Level Up Every    │
+       │                    Build             │
+       ╰──────────────────────────────────────╯
 
-[██████████████████████████████████████] BUILD COMPLETE
+[████████████████████████████] BUILD COMPLETE
 
 ✅ System Ready.
 └─ Access Node 👇
