@@ -11,9 +11,6 @@
 <br>
 
 <!-- الصورة اللي هتكون على الشمال -->
-<a href="https://mohammed-metwally.web.app" target="_blank">
-  <img align="left" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding Gamer GIF" style="margin-right: 20px; margin-bottom: 20px;" />
-</a>
 
 <!-- الكود اللي هيكون على اليمين -->
 ```text
@@ -41,3 +38,7 @@
 ✅ System Ready.
 └─ Access Node 👇
    [https://mohammed-metwally.web.app](https://mohammed-metwally.web.app)
+```
+   <a href="https://mohammed-metwally.web.app" target="_blank">
+  <img align="left" width="380" src="https://raw.githubusercontent.com/Mo-metwally/Mo-metwally/refs/heads/metwally/66703d9a-4072-4de6-b3ea-8c6e9ad43583.png" alt="Coding Gamer GIF" style="margin-right: 20px; margin-bottom: 20px;" />
+</a>
